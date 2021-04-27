@@ -1,0 +1,244 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'Playfair Display', serif;
+	font-family: 'Poppins', sans-serif;
+	color: black;
+}
+
+/* NavBar Section */
+
+#header {
+	width: 70%;
+}
+
+#header a {
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 500;
+}
+
+#cv-download {
+	color: #0F2A7F;
+}
+
+/* End of NavBar Section */
+
+
+/* Section */
+
+
+#nama-hero h1 {
+	font-family: Playfair Display;
+	font-size: 48px;
+	font-weight: 700;
+}
+
+#nama-hero p {
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 400;
+	opacity: 0.7;
+}
+
+#ctn-button {
+	color: white;
+	padding: 10px 32px;
+	margin: 4px 2px;
+	border :none;
+	border-radius: 5px;
+	display: inline-block;
+	background-color: #0F2A7F;
+}
+
+#ctn-button a{
+	text-decoration: none;
+	color: white;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 500;
+}
+
+#sosmed {
+	margin-bottom:40px;
+}
+
+#ig {
+	padding-right: 20px;
+}
+
+#wa {
+	padding-right: 20px;
+}
+
+#hero-img img {
+	box-shadow: 20px 20px 50px rgba(85,25,100,40%);
+}
+
+#about-me {
+	margin-top: 180px;
+}
+
+#about-me h2{
+	font-family: Playfair Display;
+	font-size: 32px;
+	font-weight: 700;
+}
+
+#about-me p{
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+#prjct h2{
+	font-family: Playfair Display;
+	font-size: 32px;
+	font-weight: 700;
+}
+
+#prjct img{
+	width: 1100px;
+}
+
+#gallery h2{
+	font-family: Playfair Display;
+	font-size: 32px;
+	font-weight: 700;
+}
+
+#gallery p{
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+#ctn-button-gallery {
+	color: white;
+	padding: 20px;
+	border :none;
+	border-radius: 5px;
+	display: inline-block;
+	background-color: #0F2A7F;
+
+}
+
+#ctn-button-gallery a{
+	text-decoration: none;
+	color: white;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 500;
+}
+
+#box-ads {
+	width: 100%;
+	background-color: #0F2A7F;
+	padding: 30px 50px;
+}
+
+#box-ads h2 {
+	font-family: Playfair Display;
+	font-size: 32px;
+	font-weight: 700;
+	color: white;
+}
+
+#ctn-button-ads {
+	color: white;
+	padding: 10px 40px;
+	border :none;
+	border-radius: 5px;
+	display: inline-block;
+	background-color: #fff;
+
+}
+
+#ctn-button-ads a{
+	text-decoration: none;
+	color: #0F2A7F;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 500;
+}
+
+#ts-sec h2 {
+	font-family: Playfair Display;
+	font-size: 32px;
+	font-weight: 700;
+}
+
+#pr {
+	margin-left :15px;
+	margin-top: 15px;
+}
+
+#ae {
+	margin-left :15px;
+	margin-top: 15px;
+}
+
+#ps {
+	margin-left :15px;
+	margin-top: 15px;
+}
+
+#lr {
+	margin-left :15px;
+	margin-top: 15px;
+}
+
+#dn {
+	margin-left :15px;
+	margin-top: 15px;
+}
+
+#ai {
+	margin-left :15px;
+	margin-top: 15px;
+}
+
+#id {
+	margin-left :15px;
+	margin-top: 15px;
+}
+
+#xd {
+	margin-left :15px;
+	margin-top: 15px;
+}
+
+#html {
+	margin-left :15px;
+	margin-top: 15px;
+}
+
+#css {
+	margin-left :15px;
+	margin-top: 15px;
+}
+
+/* End of this Section */
+
+/* Footer Section */
+
+#footer-1 {
+	padding :0 10%;
+	margin-top: 5%; 
+}
+
+#footer-1 h2{
+	font-family: Playfair Display;
+	font-size: 32px;
+	font-weight: 700;
+}
+
+#footer-1 p{
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+/* End of Footer Section */
